@@ -35,7 +35,7 @@ def submit():
 
     email_sender = 'monsterapps365@gmail.com'
     email_password = 'jtghdrrhtutapygi'
-    email_reciever = 'grindboats@gmail.com'#TODO change email 
+    email_reciever = 'grindboats@gmail.com'#TODO change email might be greg@cansrusLLC.com 
 
     subject = f'{data["name"]} would like more information'
     body = f"""
